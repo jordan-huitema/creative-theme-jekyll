@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Jordans Portfolio
+email: Jordan-Huitema@live.nmit.ac.nz
+description: Jordan Huitema Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+facebook_username: jordan.huitema
+github_username: jordan-huitema
 
 # Build settings
 markdown: kramdown

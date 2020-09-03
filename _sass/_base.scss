@@ -174,9 +174,9 @@ header {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
-                color: rgba(white, .7);
-                font-size: 16px;
+                font-weight: 1000;
+                color: rgba(white, 1);
+                font-size: 20px;
                 margin-bottom: 50px;
             }
         }
@@ -349,3 +349,7 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+// #noWrap {
+//     white-space: nowrap;
+//     width: 300px;
+// }
