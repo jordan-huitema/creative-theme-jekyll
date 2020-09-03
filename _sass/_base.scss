@@ -316,8 +316,11 @@ header {
 }
 
 // Contact
+#contact {
+    background-color: $background-color;
+}
 #contact .fa {
-    color: $theme-dark;
+    color: white;
     font-size: 4em;
 }
 
@@ -349,7 +352,17 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
-// #noWrap {
-//     white-space: nowrap;
-//     width: 300px;
-// }
+.align-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.no-wrap {
+    white-space: nowrap;
+}
+
+.text-white {
+    color: white;
+}

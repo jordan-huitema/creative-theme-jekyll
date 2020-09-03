@@ -5,8 +5,8 @@ description: Jordan Huitema Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-facebook_username: jordan.huitema
-github_username: jordan-huitema
+facebook_username: Jordan.Huitema
+github_username: Jordan-Huitema
 
 # Build settings
 markdown: kramdown
