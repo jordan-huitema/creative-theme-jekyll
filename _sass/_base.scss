@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/headerLw.jpg');
+    background-image: url('../img/headerLw.webp');
     text-align: center;
     color: white;
     #background-slow{
@@ -164,7 +164,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header.webp');
     }
     .header-content {
         position: relative;
